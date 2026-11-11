@@ -1,0 +1,17 @@
+html, body, #map {
+  height: 100%;
+  margin: 0;
+}
+
+.chyba {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background: #fff;
+  border-left: 4px solid #d7263d;
+  padding: 8px 12px;
+  font: 14px/1.4 sans-serif;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .3);
+}

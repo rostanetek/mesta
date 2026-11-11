@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "nazev": "Praha", "popis": "Hlavní město České republiky" },
+      "geometry": { "type": "Point", "coordinates": [14.4213, 50.0875] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nazev": "Olomouc", "popis": "Krajské město Olomouckého kraje" },
+      "geometry": { "type": "Point", "coordinates": [17.2509, 49.5938] }
+    }
+  ]
+}
